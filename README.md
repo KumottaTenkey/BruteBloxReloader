@@ -1,8 +1,2 @@
 # BruteRblox
-Brute-force Roblox Accounts, READ:
-
-Brute-forcing is a password combinations until sucess and it's not right to use Brute-force on roblox,
-PLEASE DO NOT:
-Use it on other people accounts, It's not right
-
-#roblox-bruteforcer #roblox-bruteforce #roblox-bruteforce-tool
+A modified version of BruteRblox that reloads the page after each attempt. This is *very* inefficient, but its the best chance you have. The system (should) pause after every 5 attempts
